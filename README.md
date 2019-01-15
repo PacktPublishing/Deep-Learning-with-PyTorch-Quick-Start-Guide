@@ -10,12 +10,12 @@ This is the code repository for [Deep Learning with PyTorch Quick Start Guide](h
 ## What is this book about?
 PyTorch is extremely powerful and yet easy to learn. It provides advanced features, such as supporting multiprocessor, distributed, and parallel computation. This book is an excellent entry point for those wanting to explore deep learning with PyTorch to harness its power.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-*Set up the deep learning environment using the PyTorch library
-Learn to build a deep learning model for image classification
-Use a convolutional neural network for transfer learning
-Understand to use PyTorch for natural language processing
-Use a recurrent neural network to classify text
+This book covers the following exciting features:
+* Set up the deep learning environment using the PyTorch library
+* Learn to build a deep learning model for image classification
+* Use a convolutional neural network for transfer learning
+* Understand to use PyTorch for natural language processing
+* Use a recurrent neural network to classify text
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789534097) today!
 
@@ -61,7 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is a freelance technology consultant and educator. He has worked as a consultant for government, private, and community organizations on a variety of projects, including using machine learning to detect insect outbreaks in controlled agricultural environments (Urban Ecological Systems Ltd., Bluesmart Farms), designing and implementing event management data systems (Sustainable Industry Expo, Lismore City Council), and designing multimedia interactive installations (Adelaide University). He has also written Designing Machine Learning Systems With Python for Packt Publishing and was a technical reviewer for Python Machine Learning and Hands-On Data Structures and Algorithms with Python - Second Edition, published by Packt.
 
 
-## Other books by the authors
+## Other books by the author
 * [Designing Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/designing-machine-learning-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781785882951)
 
 ### Suggestions and Feedback
